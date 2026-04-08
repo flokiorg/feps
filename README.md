@@ -19,6 +19,12 @@ Here is how to get your FEP published and discussed:
 > **Note for Authors:** Once your FEP is live, you are responsible for maintaining your Discord thread, answering community questions, and updating your GitHub PR/Spec as the idea evolves. 
 
 
+## Index
+
+| FEP | Title | Status |
+|-----|-------|--------|
+| [FEP-00](fep-00.md) | Sharenote Protocol | Draft |
+
 ## FEP Statuses
 
 * **Draft:** The FEP is currently being written, reviewed, or actively discussed in the Discord forum.
