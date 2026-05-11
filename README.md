@@ -24,6 +24,7 @@ Here is how to get your FEP published and discussed:
 | FEP | Title | Status |
 |-----|-------|--------|
 | [FEP-00](fep-00.md) | Sharenote Protocol | Draft |
+| [FEP-01](fep-01.md) | Zap Protocol | Draft |
 
 ## FEP Statuses
 
